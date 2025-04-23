@@ -1,1 +1,1 @@
-making some changes in server-config.txt.
+partial changes to the file server-config.txt
